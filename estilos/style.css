@@ -13,9 +13,8 @@ html, body {
 }
 
 body {
-    background: url('../imagens/fundo-madeira.jpg') no-repeat top center;
-    background-size: cover;
-    background-attachment: fixed;
+    background: rgb(0,212,255);
+    background: radial-gradient(circle, rgba(0,212,255,1) 16%, rgba(47,43,99,1) 44%, rgba(116,9,121,1) 66%);
 }
 
 main {
