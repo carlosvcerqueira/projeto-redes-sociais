@@ -2,6 +2,8 @@
 <hr>
 <h2>Projeto desenvolvido  durante o curso de HTML e CSS do CursoemVideo</h2>
 
+<img src="imagens/preview-home.jpeg" alt="Preview Home">
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
