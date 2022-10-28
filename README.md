@@ -1,6 +1,6 @@
 # projeto-redes-sociais
 <hr>
-Projeto desenvolvido  durante o curso de HTML e CSS do CursoemVideo
+<h1>Projeto desenvolvido  durante o curso de HTML e CSS do CursoemVideo</h1>
 
 ## 🚀 Tecnologias
 
